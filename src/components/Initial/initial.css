@@ -1,0 +1,62 @@
+.section{
+    font-family: "open sans";
+}
+
+
+
+.firstline{
+    display: flex;
+}
+.logo{
+   position: relative;
+   margin-top: 100px;
+   height: 16px;
+   width: 16px;
+   right: 0;
+   z-index: 1;
+   left: 25px;
+
+}
+
+.bpi{
+    position: relative;
+    left: 50px;
+    margin-top: 92px;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 33px;
+    letter-spacing: 0em;
+    text-align: center;
+
+}
+
+.eam{
+    position: relative;
+    margin-top: 100px;
+    left: 75px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.uia{
+    position: relative;
+    margin-top: -20px;
+    left: 70px;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+.secondline{
+    display: flex;
+}
+
